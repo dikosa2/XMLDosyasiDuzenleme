@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\XMLFileSelector\XMLFileSelector\bin\Debug\XMLFileSelector.exe.config
+C:\Users\Administrator\source\repos\XMLFileSelector\XMLFileSelector\bin\Debug\XMLFileSelector.exe
+C:\Users\Administrator\source\repos\XMLFileSelector\XMLFileSelector\bin\Debug\XMLFileSelector.pdb
+C:\Users\Administrator\source\repos\XMLFileSelector\XMLFileSelector\obj\Debug\XMLFileSelector.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\XMLFileSelector\XMLFileSelector\obj\Debug\XMLFileSelector.Form1.resources
+C:\Users\Administrator\source\repos\XMLFileSelector\XMLFileSelector\obj\Debug\XMLFileSelector.Properties.Resources.resources
+C:\Users\Administrator\source\repos\XMLFileSelector\XMLFileSelector\obj\Debug\XMLFileSelector.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\XMLFileSelector\XMLFileSelector\obj\Debug\XMLFileSelector.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\XMLFileSelector\XMLFileSelector\obj\Debug\XMLFileSelector.exe
+C:\Users\Administrator\source\repos\XMLFileSelector\XMLFileSelector\obj\Debug\XMLFileSelector.pdb
+C:\Users\Administrator\source\repos\XMLFileSelector\XMLFileSelector\bin\Debug\UtfUnknown.dll
+C:\Users\Administrator\source\repos\XMLFileSelector\XMLFileSelector\bin\Debug\UtfUnknown.xml
+C:\Users\Administrator\source\repos\XMLFileSelector\XMLFileSelector\obj\Debug\XMLFileSelector.csproj.CopyComplete
